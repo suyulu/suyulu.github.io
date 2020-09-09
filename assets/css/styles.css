@@ -20,12 +20,8 @@ body
     overflow: hidden;
 }
 
-h1
+div
 {
- font-size:10vw;
-}
-
-p
-{
-font-size: 10vw ;
+ font-size:10em;
+ text-align:center;
 }
