@@ -1,2 +1,2 @@
-# suyulu.github.io
+# suyulu
 Personal Website
