@@ -18,11 +18,13 @@ body
     margin:0;
     padding:0;
     overflow: hidden;
+    font-family: Arial;    
 }
 
 /* Header/Blog Title */
 .header {
-    padding: 30px;
-    font-size: 40px;
+    padding: 10em;
+    font-size: 20em;
     text-align: center;
+    margin: auto;
  }
