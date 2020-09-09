@@ -18,8 +18,16 @@ body {
 /* Header/Blog Title */
 .header {
     text-align: center;
+
  }
 
 h2 {
-    font-size:15em;
+    font-size:10em;
+    color: peachpuff;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
