@@ -7,7 +7,7 @@ body {
     background: url("../img/background.jpg") bottom center no-repeat;
     background-size: cover; 
     margin:0;
-    padding:10em;
+    padding:7em;
     overflow: hidden;
     font-family: Arial;    
 }
