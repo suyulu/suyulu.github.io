@@ -7,7 +7,7 @@ body {
     background: url("../img/background.jpg") bottom center no-repeat;
     background-size: cover; 
     margin:0;
-    padding:7em;
+    padding:7em, 10em, 0em, 10em;
     overflow: hidden;
     font-family: Calibri, sans-serif;    
 }
@@ -47,9 +47,10 @@ a {
     color:#c00;
     text-decoration: none;
     font-weight: bold;
+    font-size:3em;
 }
 
 a:hover{
     text-decoration: underline;
-    background-color: coral;
+    background-color:#ccc;
 }
