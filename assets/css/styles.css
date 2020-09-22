@@ -24,6 +24,8 @@ div {
 h2 {
     font-size:10em;
     color: peachpuff;
+    margin-top:0;
+    margin-bottom:0;
 }
 
 ul {
