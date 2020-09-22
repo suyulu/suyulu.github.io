@@ -7,7 +7,7 @@ body {
     background: url("../img/background.jpg") bottom center no-repeat;
     background-size: cover; 
     margin:0;
-    padding:7em, 10em, 0em, 10em;
+    padding:7em 10em 7em 10em;
     overflow: hidden;
     font-family: Calibri, sans-serif;    
 }
@@ -19,7 +19,7 @@ div {
  }
 
 h2 {
-    font-size:3em;
+    font-size:5em;
     color: peachpuff;
     margin-top:0;
     margin-bottom:0;
