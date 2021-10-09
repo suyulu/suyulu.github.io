@@ -5,9 +5,7 @@ setTimeout() is to let the function run after a certain time.
 
 The below code snippet is to click the pause button and the resume button 2 seconds later. This step is looped for every 5 minutes.
 
-```
-
-// Javascript code with syntax highlighting.
+```js
 
 setInterval(function(){
    $( ".pv-playpause" ).click();
