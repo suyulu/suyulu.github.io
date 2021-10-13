@@ -17,8 +17,8 @@ function detect_clean_exam(){
    {
        $('#examcontent > input').each(function () { 
           this.click(); // select item
-          $('#examcontent > input').click()
-          if($('#examcontent > input').length) {
+          $('#examcontent > input').click() //submit answer
+          if($('#examcontent > input').length) { // when answer is wrong
               $('#examcontent > input').click() // remove prompt
           }
           else{
