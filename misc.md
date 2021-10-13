@@ -1,6 +1,6 @@
-### 1. jQuery code for the CPA continuing eduction
+### 1. jQuery code for a continuing eduction
 
-When I take the CPA Continuing Education, I realize the audience has to move/click the mouse every 10 minutes. If you do not move/click your mouse, the time will not be counted. In order to solve this issue, I prepare a jQuery snippet below.
+When I take a continuing education, I realize the audience has to move/click the mouse every 10 minutes. If you do not move/click your mouse, the time will not be counted. In order to solve this issue, I prepare a jQuery snippet below.
 
 setInterval() is a jQuery function to run a function for every a certain time.
 setTimeout() is to let the function run after a certain time. 
