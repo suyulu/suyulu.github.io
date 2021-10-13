@@ -1,7 +1,7 @@
 # Hello, I am learning Machine Learning, Linux, Mongodb and C++.
 
 
-### [Machine Learning](http://suyulu.github.io/machinelearning)
+### [Machine Learning](http://suyulu.github.io/MachineLearning)
 
 
 ### [Linux](http://suyulu.github.io/linux)
