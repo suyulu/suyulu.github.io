@@ -22,7 +22,7 @@ function detect_clean_exam(){
               $('#examcontent > input').click() // remove prompt
           }
           else{
-              return false; // breaks
+              return false; // when answer is corrce, breaks the for-each loop
           }
        })
     };
