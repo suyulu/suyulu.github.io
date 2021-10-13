@@ -12,6 +12,24 @@ However, the system will give you some exercises when you watch the video. If it
 
 ```js
 
+function detect_clean_exam(){
+   if ($("#examcontent > label").length)
+   {
+       $('#examcontent > input').each(function () { 
+          this.click(); // select item
+          $('#examcontent > input').click()
+          if($('#examcontent > input').length) {
+              $('#examcontent > input').click() // remove prompt
+          }
+          else{
+              return false; // breaks
+          }
+       })
+    };
+}
+
+
+
 setInterval(function(){
    $( ".pv-playpause" ).click();
 setTimeout(
@@ -22,18 +40,8 @@ setTimeout(
 
 },300000);
 
+
+
+
+
 ```
-
-
-
-if ($("#examcontent > label").length){
-    $('#examcontent > input').each(function () { 
-    this.click(); // select item
-    
-    if(value === "foo") {
-        return false; // breaks
-    }
-    
-    })
-    };
-
