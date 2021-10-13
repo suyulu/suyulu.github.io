@@ -13,12 +13,12 @@ However, the system will give you some exercises when you watch the video. If it
 ```js
 
 function detect_clean_exam(){
-   if ($("#examcontent > label").length)
+   if ($("#examcontent > label").length) // have an exam
    {
        $('#examcontent > input').each(function () { 
-          this.click(); // select item
-          $('#examcontent > input').click() //submit answer
-          if($('#examcontent > input').length) { // when answer is wrong
+          this.click(); // select an answer
+          $('#examcontent > input').click() //submit the answer
+          if($('#examcontent > input').length) { // when the answer is wrong
               $('#examcontent > input').click() // remove prompt
           }
           else{
