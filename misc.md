@@ -23,3 +23,17 @@ setTimeout(
 },300000);
 
 ```
+
+
+
+if ($("#examcontent > label").length){
+    $('#examcontent > input').each(function () { 
+    this.click(); // select item
+    
+    if(value === "foo") {
+        return false; // breaks
+    }
+    
+    })
+    };
+
