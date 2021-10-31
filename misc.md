@@ -21,17 +21,6 @@ function detect_clean_exam(){
       var myint = myans.charCodeAt(0) - 65;
       $('#examcontent > label')[myint].click();
       $('#examcontent > p >  input[type=button]').click(); //submit the answer
-      
-      // $('#examcontent > label').each(function () { 
-      //    this.click(); // select an answer
-      //    $('#examcontent > p >  input[type=button]').click() //submit the answer
-      //    if($('#examcontent > input').length) { // when the answer is wrong
-      //        $('#examcontent > input').click() // remove prompt
-      //    }
-      //    else{
-      //        return false; // when answer is corrce, breaks the for-each loop
-      //    }
-      // })
     };
 }
 
