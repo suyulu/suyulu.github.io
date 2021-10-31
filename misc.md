@@ -35,3 +35,22 @@ setInterval(function(){
 },300000);
 
 ```
+
+
+### 2. Replace Chinese characters
+
+Chinese characters can be found in the Unicode ranged from 4e00 to 9fff.
+
+```py
+
+import re
+
+def CNCharactersReplace(s):
+   r = re.compile(r'[\u4e00-\u9fff]+')
+   r.sub(s, " ")
+
+```
+
+
+
+
