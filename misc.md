@@ -47,11 +47,11 @@ import re
 
 def CNCharactersReplace(s):
    r = re.compile(r'[\u4e00-\u9fff]+')
-   r.sub(s, " ")
+   r.sub(s, " ") # replace Chinese Characters with space
    return s
 
 ```
 
-
+Ref: Mastering Large Datasets With Python, Manning, Page 52.
 
 
