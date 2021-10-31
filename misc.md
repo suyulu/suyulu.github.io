@@ -48,6 +48,7 @@ import re
 def CNCharactersReplace(s):
    r = re.compile(r'[\u4e00-\u9fff]+')
    r.sub(s, " ")
+   return s
 
 ```
 
