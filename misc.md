@@ -55,3 +55,13 @@ def CNCharactersReplace(s):
 Ref: Mastering Large Datasets With Python, Manning, Page 52.
 
 
+### 3. Conda command and virtual environment in batch command file
+
+There is a fast manner to register conda's path to windows system. Conda includes a well-prepared python code to register Conda.
+The file is C:\Users\[User's name]\anaconda3\Tools\scripts\win_add2path.py
+
+When we activate python virtual environment in Window Batch file, it is quite easy to make mistakes. If you invoke "conda activate [virtual environment]", the Batch file will terminate immediately. To continue the batch file, we can use "call activate [virtualenv name]" instead.
+
+The activate function is stored in the file "C:\Users\[user's name]\anaconda3\condabin\conda.bat". When you input "conda activate [virtualenv name]", the code will be interpret to "C:\Users\[user's name]\anaconda3\condabin\conda.bat activate [virtualenv name]".
+
+
