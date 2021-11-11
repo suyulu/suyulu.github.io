@@ -58,7 +58,7 @@ Ref: Mastering Large Datasets With Python, Manning, Page 52.
 ### 3. Conda registration and virtual environment in batch command file
 
 There is a fast manner to register conda's path to windows system. Conda includes a well-prepared python code to register Conda.
-The file is `C:\Users\\[User's name]\anaconda3\Tools\scripts\win_add2path.py`
+The file is `C:\Users\\[user name]\anaconda3\Tools\scripts\win_add2path.py`
 
 
 
@@ -69,10 +69,10 @@ the Batch file will terminate immediately. To continue the batch file, we can us
 
 
 
-The activate function of conda is stored in the file `C:\Users\\[user's name]\anaconda3\condabin\conda.bat`. 
+The activate function of conda is stored in the file `C:\Users\\[user name]\anaconda3\condabin\conda.bat`. 
 When you input 
 `conda activate [virtualenv name]`,
 the code will be interpreted to 
-`C:\Users\\[user's name]\anaconda3\condabin\conda.bat activate [virtualenv name]`.
+`C:\Users\\[user name]\anaconda3\condabin\conda.bat activate [virtualenv name]`.
 
 
