@@ -71,7 +71,7 @@ the Batch file will terminate immediately. To continue the batch file, we can us
 
 The activate function of conda is stored in the file `C:\Users\\[user's name]\anaconda3\condabin\conda.bat`. 
 When you input 
-`conda activate [virtualenv name] `,
+`conda activate [virtualenv name]`,
 the code will be interpret to 
 `C:\Users\\[user's name]\anaconda3\condabin\conda.bat activate [virtualenv name]`.
 
