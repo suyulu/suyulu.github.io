@@ -64,11 +64,11 @@ The file is `C:\Users\\[User's name]\anaconda3\Tools\scripts\win_add2path.py`
 
 When we activate python virtual environment in Window Batch file, it is quite easy to make mistakes. If you invoke 
 ```cmd 
-conda activate [virtual environment] // it will cause error in MS batch file
+conda activate [virtual environment] REM it will cause error in MS batch file
 ```
 the Batch file will terminate immediately. To continue the batch file, we can use instead
 ```cmd 
-call activate [virtualenv name] // correct way in MS batch file
+call activate [virtualenv name] REM correct way in MS batch file
 ```
 
 
@@ -76,7 +76,7 @@ call activate [virtualenv name] // correct way in MS batch file
 The activate function of conda is stored in the file `C:\Users\\[user's name]\anaconda3\condabin\conda.bat`. 
 When you input 
 ```cmd 
-conda activate [virtualenv name]
+conda activate [virtualenv name] 
 ```
 the code will be interpret to 
 ```cmd 
