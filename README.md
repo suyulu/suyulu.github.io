@@ -13,3 +13,9 @@
 ### [C++](http://suyulu.github.io/cpp)
 
 ### [Miscellaneous](http://suyulu.github.io/misc)
+
+
+### [宋词](http://suyulu.github.io/songci)
+
+
+### [唐诗](http://suyulu.github.io/tangshi)
