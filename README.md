@@ -1,4 +1,4 @@
-# Hello, I am learning Machine Learning, Linux, Mongodb and C++.
+# Hello, I am learning...
 
 
 ### [Machine Learning](http://suyulu.github.io/MachineLearning)
