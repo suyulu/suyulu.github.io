@@ -15,6 +15,6 @@
 ### [Miscellaneous](https://suyulu.github.io/misc)
 
 
-### [唐诗](https://suyulu.github.io/tangshi) 和 [宋词](https://suyulu.github.io/songci) 
+### [唐诗](https://suyulu.github.io/tangshi.md) 和 [宋词](https://suyulu.github.io/songci) 
 
 
