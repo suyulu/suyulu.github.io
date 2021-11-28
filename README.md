@@ -1,20 +1,20 @@
 # Hello, I am learning...
 
 
-### [Machine Learning](http://suyulu.github.io/MachineLearning)
+### [Machine Learning](https://suyulu.github.io/MachineLearning)
 
 
-### [Linux](http://suyulu.github.io/linux)
+### [Linux](https://suyulu.github.io/linux)
 
 
-### [Mongodb](http://suyulu.github.io/mongodb)
+### [Mongodb](https://suyulu.github.io/mongodb)
 
 
-### [C++](http://suyulu.github.io/cpp)
+### [C++](https://suyulu.github.io/cpp)
 
-### [Miscellaneous](http://suyulu.github.io/misc)
+### [Miscellaneous](https://suyulu.github.io/misc)
 
 
-### [唐诗](http://suyulu.github.io/tangshi.html) 和 [宋词](http://suyulu.github.io/songci) 
+### [唐诗](https://suyulu.github.io/tangshi) 和 [宋词](https://suyulu.github.io/songci) 
 
 
