@@ -1,1 +1,1 @@
-[bing dwen dwen](https://suyulu.github.io/bdd.md)
+[bing dwen dwen](https://suyulu.github.io/bdd.html)
